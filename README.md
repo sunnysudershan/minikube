@@ -1,6 +1,6 @@
 # Minikube Installer
 
-## Supported Platforms
+## Platforms to Install
 * [Ubuntu](docs/user/ubuntu/README.md)
 * [RHEL](docs/user/rhel/README.md)
 
